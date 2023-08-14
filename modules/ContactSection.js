@@ -7,9 +7,9 @@ const createContactSection = () => {
           <p>Do you have any questions or you want to connect?
         
           <ul>
-              <li>E-mail:Mariamkca11@gmail.com@gmail.com</a></li>
-              <li>Phone number: +254723971958</li>
-              <li>Address :Nairobi, Kenya</li>
+              <li>E-mail:siddhartha.silvia@gmail.com</a></li>
+              <li>Phone number: +916290797367</li>
+              <li>Address :Westbengal, India</li>
           </ul>
       `;
   contact.appendChild(contactInfo);
